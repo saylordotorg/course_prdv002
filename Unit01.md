@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV002: Professional Writing"
+course_description: "This course is designed to provide adult learners with the basic skills they need to write effective documents in the workplace."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Know Your Audience and Purpose** <span id="1"></span> 
 *When you are writing in a professional context, it is essential to
 cultivate an awareness and respect for your audience.  Before you begin

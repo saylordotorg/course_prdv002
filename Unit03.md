@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV002: Professional Writing"
+course_description: "This course is designed to provide adult learners with the basic skills they need to write effective documents in the workplace."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Polishing Your Writing** <span id="3"></span> 
 *In this age of instant communication, we have become accustomed to
 writing rapidly and reading documents filled with typographical errors,

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV002: Professional Writing"
+course_description: "This course is designed to provide adult learners with the basic skills they need to write effective documents in the workplace."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: The Art of Persuasion** <span id="2"></span> 
 *Now that you have determined your audience, crafted your main point,
 and created an outline, it is time to draft your document.  In this

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV002: Professional Writing"
+course_description: "This course is designed to provide adult learners with the basic skills they need to write effective documents in the workplace."
+next: ../../../
+previous: ../Unit03
+---
 **Unit 4: Final Exam** <span id="4"></span> 
 -   **Final Exam: The Saylor Foundation’s “PRDV002 Final Exam”**
     Link: The Saylor Foundation’s [“PRDV002 Final

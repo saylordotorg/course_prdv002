@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV002: Professional Writing"
+course_description: "This course is designed to provide adult learners with the basic skills they need to write effective documents in the workplace."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "PRDV002: Professional Writing"
 ---------------------------------------------------
 
